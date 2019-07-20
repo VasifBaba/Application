@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe.config
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\bin\Debug\FirstApplication.pdb
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.Properties.Resources.resources
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\User\Source\Repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.GroupName.resources
